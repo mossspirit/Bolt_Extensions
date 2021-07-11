@@ -1,6 +1,5 @@
 using Ludiq;
 
-
 namespace Bolt.Extensions
 {
     public sealed class FlowReroute : Unit

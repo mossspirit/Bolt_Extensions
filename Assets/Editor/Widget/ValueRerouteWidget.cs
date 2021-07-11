@@ -7,6 +7,8 @@ namespace Bolt.Extensions
     [Widget(typeof(ValueReroute))]
     public sealed class ValueRerouteWidget : UnitWidget<ValueReroute>
     {
+
+        //コンストラクタ呼び出し
         public ValueRerouteWidget(FlowCanvas canvas, ValueReroute unit) : base(canvas, unit)
         {
         }
